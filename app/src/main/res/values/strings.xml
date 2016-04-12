@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempConv: S13/20807/12</string>
+    <string name="action_settings">Settings</string>
+    <string name="ctof_radio">Celsius to Fahrenheit</string>
+    <string name="ftoc_radio">Fahrenheit to Celsius</string>
+    <string name="hint_ctof">Enter celsius value</string>
+    <string name="hint_ftoc">Enter fahrenheit value</string>
+</resources>
